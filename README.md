@@ -4,7 +4,8 @@
 
 - **Full Stack Development** 💻  
 - **Mobile Applications** 📱  
-- **Artificial Intelligence** 🤖  
+- **Artificial Intelligence** 🤖
+- **Database** 📀
 - **Blockchain** 🧱  
 
 ---
