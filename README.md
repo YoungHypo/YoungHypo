@@ -2,8 +2,7 @@
 
 🎓 I’m Haibo Yang, a Master’s student in **Computer Science** at the **University of California, Santa Barbara**, specializing in:
 
-- **Full Stack Development** 💻  
-- **Mobile Applications** 📱  
+- **Full Stack & Mobile Dev** 💻   
 - **Machine Learning** 🤖
 - **Database** 📀
 - **Blockchain** 🧱  
