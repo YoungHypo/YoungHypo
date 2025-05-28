@@ -55,10 +55,11 @@ I aspire to become a **Software Engineer** 👨‍💻 and join an innovative te
 
 ---
 
-## 🏆 Honors & Awards
+## 🌟 What I’m Proud Of
 
-- 🥇 **Winner**, Apple Swift Student Challenge  
-- 🥇 **Gold Medal**, Chinese Collegiate Computing Competition
+🏆 2025 Apple Swift Student Challenge Winner - [SignQuest](https://github.com/YoungHypo/signquest)
+
+💻 Linux Foundation Open Source Maintainer - [Hyperledger Cello](https://github.com/hyperledger/cello)
 
 ---
 
