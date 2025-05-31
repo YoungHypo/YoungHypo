@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-🎓 I’m Haibo Yang, a Master’s student in **Computer Science** at the **University of California, Santa Barbara**, specializing in:
+🎓 I’m Haibo Yang, a Master’s student in **Computer Science**, specializing in:
 
 - **Full Stack & Mobile Dev** 💻   
 - **Machine Learning** 🤖
