@@ -8,16 +8,6 @@
 
 Future **Software Engineer** 👨‍💻 on a mission to build things ✨ that matter.
 
-## 🛠️ Technical Skills
-
-<p align="left">
-  <img  
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=younghypo&show_icons=true&locale=en&layout=compact" 
-    alt="younghypo" 
-  />
-</p>
-
-
 ## 🌟 What I’m Proud Of
 
 
