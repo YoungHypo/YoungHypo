@@ -10,14 +10,13 @@ Future **Software Engineer** 👨‍💻 on a mission to build things ✨ that m
 
 ## 🌟 What I’m Proud Of
 
+2025 Apple Swift Student Challenge Winner — [SignQuest](https://github.com/YoungHypo/signquest)  
 
-🏆 2025 Apple Swift Student Challenge Winner — [SignQuest](https://github.com/YoungHypo/signquest)  
+Google Summer of Code '25 @ Google DeepMind — [Firebase AI Quickstart-iOS](https://github.com/firebase/quickstart-ios)  
 
-☁️ Google Summer of Code '25 @ Google DeepMind — [Firebase AI Quickstart-iOS](https://github.com/firebase/quickstart-ios)  
+ByteDance [VIDEX](https://github.com/bytedance/videx) Contributor
 
-🧩 ByteDance [VIDEX](https://github.com/bytedance/videx) Contributor
-
-💻 LFX Mentorship '24 @ [Hyperledger Cello](https://github.com/hyperledger/cello)
+LFX Mentorship '24 @ [Hyperledger Cello](https://github.com/hyperledger/cello)
 
 ## 🤝 Connect With Me!!
 
