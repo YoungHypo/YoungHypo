@@ -2,7 +2,7 @@
 
 🎓 I’m Haibo Yang, **Master of Science in Computer Science** at the University of California, Santa Barbara.
 
-💻 Full-stack dev • 🌍 Open-source contributor • 📚 Always learning
+> I'm interested in backend systems, blockchain, and iOS development—and of course, AI.
 
 ## 🚀 Career Aspiration
 
