@@ -16,6 +16,8 @@ Google Summer of Code '25 @ Google DeepMind — [Firebase AI Quickstart-iOS](htt
 
 ByteDance [VIDEX](https://github.com/bytedance/videx) Contributor
 
+MariaDB [Top Contributor](https://github.com/MariaDB-Server-Top-Contributors) 
+
 LFX Mentorship '24 @ [Hyperledger Cello](https://github.com/hyperledger/cello)
 
 ## 🤝 Connect With Me!!
